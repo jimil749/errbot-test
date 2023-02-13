@@ -1,3 +1,3 @@
 # errbot-test
 
-stuff
+this repo is to test errbot integration with zulip
